@@ -2,10 +2,13 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="es.gorka.com"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="H"/>
+			<item value="Modulo3"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -31,8 +34,37 @@
 		<list key="issueManagementUrl">
 		</list>
 	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item value="480" key="width"/>
+		<item value="142" key="x"/>
+		<item value="45" key="y"/>
+		<item value="450" key="height"/>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="H"/>
+			<item value="G"/>
+			<item value="F"/>
+			<item value="E"/>
+			<item value="Modulo2"/>
+			<item value="D"/>
+			<item value="C"/>
+			<item value="Modulo3"/>
+			<item value="Modulo1"/>
+			<item value="B"/>
+			<item value="A"/>
+		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -57,10 +89,33 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.H"/>
+			<item value="org.G"/>
+			<item value="org.F"/>
+			<item value="org.E"/>
+			<item value="org.Modulo2"/>
+			<item value="org.D"/>
+			<item value="org.C"/>
+			<item value="org.Modulo3"/>
+			<item value="org.Modulo1"/>
+			<item value="org.B"/>
+			<item value="org.A"/>
 		</list>
 		<list key="groupId">
+			<item value="es.gorka.com"/>
 		</list>
 		<list key="artifactId">
+			<item value="H"/>
+			<item value="G"/>
+			<item value="F"/>
+			<item value="E"/>
+			<item value="Modulo2"/>
+			<item value="D"/>
+			<item value="C"/>
+			<item value="Modulo3"/>
+			<item value="Modulo1"/>
+			<item value="B"/>
+			<item value="A"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
