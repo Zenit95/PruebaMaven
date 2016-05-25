@@ -24,3 +24,164 @@
 2016-05-25 17:47:04,962 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\src\main\resources
 2016-05-25 17:47:04,964 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-05-25 17:47:04,964 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\src\test\resources
+2016-05-25 17:49:40,891 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-25 17:49:41,640 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:Parent:0.0.1-SNAPSHOT @ C:\Maven\Parent\pom.xml.
+2016-05-25 17:49:41,966 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Parent/src/main/java
+2016-05-25 17:49:41,967 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Parent/src/test/java
+2016-05-25 17:49:42,039 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-05-25 17:49:42,206 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:49:42,207 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\src\main\resources
+2016-05-25 17:49:42,209 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:49:42,209 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\src\test\resources
+2016-05-25 17:50:44,264 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: es.gorka.com:Parent:0.0.1-SNAPSHOT @ C:\Maven\Parent\pom.xml.
+2016-05-25 17:50:57,603 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-25 17:50:57,620 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: es.gorka.com:Parent:0.0.1-SNAPSHOT @ C:\Maven\Parent\pom.xml.
+2016-05-25 17:50:57,683 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-25 17:51:46,563 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Maven\Parent\A\pom.xml
+2016-05-25 17:51:47,310 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:A:0.0.1-SNAPSHOT @ C:\Maven\Parent\A\pom.xml.
+2016-05-25 17:51:48,007 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /A/src/main/java
+2016-05-25 17:51:48,011 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /A/src/test/java
+2016-05-25 17:51:48,060 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-05-25 17:51:48,751 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:51:48,751 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\main\resources
+2016-05-25 17:51:48,756 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:51:48,757 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\test\resources
+2016-05-25 17:51:50,013 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: es.gorka.com:Parent:0.0.1-SNAPSHOT @ C:\Maven\Parent\pom.xml.
+2016-05-25 17:51:50,664 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:A:0.0.1-SNAPSHOT @ C:\Maven\Parent\A\pom.xml.
+2016-05-25 17:51:52,361 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:51:52,362 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\main\resources
+2016-05-25 17:51:52,364 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:51:52,364 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\test\resources
+2016-05-25 17:52:18,655 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Maven\Parent\B\pom.xml
+2016-05-25 17:52:18,740 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:B:0.0.1-SNAPSHOT @ C:\Maven\Parent\B\pom.xml.
+2016-05-25 17:52:19,245 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /B/src/main/java
+2016-05-25 17:52:19,249 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /B/src/test/java
+2016-05-25 17:52:19,287 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-05-25 17:52:19,913 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:52:19,914 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\main\resources
+2016-05-25 17:52:19,915 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:52:19,915 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\test\resources
+2016-05-25 17:52:21,020 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: es.gorka.com:Parent:0.0.1-SNAPSHOT @ C:\Maven\Parent\pom.xml.
+2016-05-25 17:52:21,570 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:A:0.0.1-SNAPSHOT @ C:\Maven\Parent\A\pom.xml.
+2016-05-25 17:52:21,623 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:B:0.0.1-SNAPSHOT @ C:\Maven\Parent\B\pom.xml.
+2016-05-25 17:52:23,446 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:52:23,447 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\main\resources
+2016-05-25 17:52:23,449 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:52:23,450 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\test\resources
+2016-05-25 17:52:23,470 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:52:23,470 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\main\resources
+2016-05-25 17:52:23,471 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:52:23,471 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\test\resources
+2016-05-25 17:54:33,750 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Maven\Parent\A\pom.xml
+2016-05-25 17:54:34,365 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:A:0.0.1-SNAPSHOT @ C:\Maven\Parent\A\pom.xml.
+2016-05-25 17:54:34,909 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /A/src/main/java
+2016-05-25 17:54:34,912 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /A/src/test/java
+2016-05-25 17:54:34,943 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-05-25 17:54:35,332 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:54:35,333 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\main\resources
+2016-05-25 17:54:35,334 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:54:35,335 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\test\resources
+2016-05-25 17:54:53,191 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:54:53,192 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\main\resources
+2016-05-25 17:54:53,193 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:54:53,193 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\test\resources
+2016-05-25 17:54:54,214 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:54:54,215 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\main\resources
+2016-05-25 17:54:54,218 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:54:54,218 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\test\resources
+2016-05-25 17:55:58,770 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Maven\Parent\B\pom.xml
+2016-05-25 17:55:58,850 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:B:0.0.1-SNAPSHOT @ C:\Maven\Parent\B\pom.xml.
+2016-05-25 17:55:59,075 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /B/src/main/java
+2016-05-25 17:55:59,083 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /B/src/test/java
+2016-05-25 17:55:59,128 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-05-25 17:55:59,450 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:55:59,450 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\main\resources
+2016-05-25 17:55:59,451 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:55:59,451 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\test\resources
+2016-05-25 17:56:08,779 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:08,780 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\main\resources
+2016-05-25 17:56:08,780 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:08,780 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\test\resources
+2016-05-25 17:56:09,795 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:09,796 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\main\resources
+2016-05-25 17:56:09,798 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:09,799 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\test\resources
+2016-05-25 17:56:29,400 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Maven\Parent\Modulo1\pom.xml
+2016-05-25 17:56:29,479 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:Modulo1:0.0.1-SNAPSHOT @ C:\Maven\Parent\Modulo1\pom.xml.
+2016-05-25 17:56:29,665 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Modulo1/src/main/java
+2016-05-25 17:56:29,670 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Modulo1/src/test/java
+2016-05-25 17:56:29,744 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-05-25 17:56:30,100 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:30,100 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\main\resources
+2016-05-25 17:56:30,101 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:30,102 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\test\resources
+2016-05-25 17:56:30,187 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: es.gorka.com:Parent:0.0.1-SNAPSHOT @ C:\Maven\Parent\pom.xml.
+2016-05-25 17:56:30,833 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:A:0.0.1-SNAPSHOT @ C:\Maven\Parent\A\pom.xml.
+2016-05-25 17:56:30,897 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:B:0.0.1-SNAPSHOT @ C:\Maven\Parent\B\pom.xml.
+2016-05-25 17:56:30,945 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:Modulo1:0.0.1-SNAPSHOT @ C:\Maven\Parent\Modulo1\pom.xml.
+2016-05-25 17:56:32,766 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:32,766 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\main\resources
+2016-05-25 17:56:32,769 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:32,770 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\test\resources
+2016-05-25 17:56:32,795 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:32,795 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\main\resources
+2016-05-25 17:56:32,795 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:32,796 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\test\resources
+2016-05-25 17:56:32,817 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:32,817 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\main\resources
+2016-05-25 17:56:32,818 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:32,818 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\test\resources
+2016-05-25 17:56:54,276 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Maven\Parent\Modulo3\pom.xml
+2016-05-25 17:56:54,353 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:Modulo3:0.0.1-SNAPSHOT @ C:\Maven\Parent\Modulo3\pom.xml.
+2016-05-25 17:56:54,779 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Modulo3/src/main/java
+2016-05-25 17:56:54,791 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Modulo3/src/test/java
+2016-05-25 17:56:54,874 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-05-25 17:56:55,222 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:55,222 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo3\src\main\resources
+2016-05-25 17:56:55,223 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:55,224 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo3\src\test\resources
+2016-05-25 17:56:56,388 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: es.gorka.com:Parent:0.0.1-SNAPSHOT @ C:\Maven\Parent\pom.xml.
+2016-05-25 17:56:56,951 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:Modulo1:0.0.1-SNAPSHOT @ C:\Maven\Parent\Modulo1\pom.xml.
+2016-05-25 17:56:56,993 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:A:0.0.1-SNAPSHOT @ C:\Maven\Parent\A\pom.xml.
+2016-05-25 17:56:57,036 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:B:0.0.1-SNAPSHOT @ C:\Maven\Parent\B\pom.xml.
+2016-05-25 17:56:57,085 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:Modulo3:0.0.1-SNAPSHOT @ C:\Maven\Parent\Modulo3\pom.xml.
+2016-05-25 17:56:58,862 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:58,863 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\main\resources
+2016-05-25 17:56:58,865 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:58,865 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\test\resources
+2016-05-25 17:56:58,882 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:58,882 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\main\resources
+2016-05-25 17:56:58,883 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:58,883 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\B\src\test\resources
+2016-05-25 17:56:58,901 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:58,901 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\main\resources
+2016-05-25 17:56:58,902 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:58,902 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\test\resources
+2016-05-25 17:56:58,924 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:58,924 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo3\src\main\resources
+2016-05-25 17:56:58,925 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:56:58,925 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo3\src\test\resources
+2016-05-25 17:57:05,452 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:57:05,453 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\main\resources
+2016-05-25 17:57:05,455 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:57:05,456 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\test\resources
+2016-05-25 17:57:06,555 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:57:06,555 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\main\resources
+2016-05-25 17:57:06,557 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:57:06,557 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo1\src\test\resources
+2016-05-25 17:57:19,579 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:57:19,579 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo3\src\main\resources
+2016-05-25 17:57:19,580 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:57:19,580 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo3\src\test\resources
+2016-05-25 17:57:20,598 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:57:20,598 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo3\src\main\resources
+2016-05-25 17:57:20,603 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:57:20,603 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\Modulo3\src\test\resources
+2016-05-25 17:57:54,044 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: es.gorka.com:A:0.0.1-SNAPSHOT @ C:\Maven\Parent\A\pom.xml.
+2016-05-25 17:57:54,185 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: es.gorka.com:Modulo3:0.0.1-SNAPSHOT @ C:\Maven\Parent\Modulo3\pom.xml.
+2016-05-25 17:58:07,914 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.gorka.com:A:0.0.1-SNAPSHOT @ C:\Maven\Parent\A\pom.xml.
+2016-05-25 17:58:08,098 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:58:08,098 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\main\resources
+2016-05-25 17:58:08,099 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-25 17:58:08,099 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Maven\Parent\A\src\test\resources
+2016-05-25 17:58:20,301 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: es.gorka.com:Modulo1:0.0.1-SNAPSHOT @ C:\Maven\Parent\Modulo1\pom.xml.
